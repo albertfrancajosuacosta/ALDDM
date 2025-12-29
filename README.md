@@ -3,7 +3,9 @@
 Authors
 
 Albert França Josuá Costa
+
 albert.costa@ifam.edu.br
+
 albertfrancajosuacosta@gmail.com
 
 Federal Institute of Amazonas
