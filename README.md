@@ -1,5 +1,14 @@
 # Active Learning Drift Detection Method
 
+Authors
+
+Albert França Josuá Costa
+albert.costa@ifam.edu.br
+albertfrancajosuacosta@gmail.com
+
+Federal Institute of Amazonas
+
+
 ## Início
 ## Licença BSD-3-Clause 
 
